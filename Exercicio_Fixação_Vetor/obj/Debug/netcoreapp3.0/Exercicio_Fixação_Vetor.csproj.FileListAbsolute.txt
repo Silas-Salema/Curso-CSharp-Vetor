@@ -1,0 +1,11 @@
+C:\Users\Silas1\source\repos\Exercicio_Fixação_Vetor\Exercicio_Fixação_Vetor\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Vetor.exe
+C:\Users\Silas1\source\repos\Exercicio_Fixação_Vetor\Exercicio_Fixação_Vetor\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Vetor.deps.json
+C:\Users\Silas1\source\repos\Exercicio_Fixação_Vetor\Exercicio_Fixação_Vetor\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Vetor.runtimeconfig.json
+C:\Users\Silas1\source\repos\Exercicio_Fixação_Vetor\Exercicio_Fixação_Vetor\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Vetor.runtimeconfig.dev.json
+C:\Users\Silas1\source\repos\Exercicio_Fixação_Vetor\Exercicio_Fixação_Vetor\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Vetor.dll
+C:\Users\Silas1\source\repos\Exercicio_Fixação_Vetor\Exercicio_Fixação_Vetor\bin\Debug\netcoreapp3.0\Exercicio_Fixação_Vetor.pdb
+C:\Users\Silas1\source\repos\Exercicio_Fixação_Vetor\Exercicio_Fixação_Vetor\obj\Debug\netcoreapp3.0\Exercicio_Fixação_Vetor.csprojAssemblyReference.cache
+C:\Users\Silas1\source\repos\Exercicio_Fixação_Vetor\Exercicio_Fixação_Vetor\obj\Debug\netcoreapp3.0\Exercicio_Fixação_Vetor.AssemblyInfoInputs.cache
+C:\Users\Silas1\source\repos\Exercicio_Fixação_Vetor\Exercicio_Fixação_Vetor\obj\Debug\netcoreapp3.0\Exercicio_Fixação_Vetor.AssemblyInfo.cs
+C:\Users\Silas1\source\repos\Exercicio_Fixação_Vetor\Exercicio_Fixação_Vetor\obj\Debug\netcoreapp3.0\Exercicio_Fixação_Vetor.dll
+C:\Users\Silas1\source\repos\Exercicio_Fixação_Vetor\Exercicio_Fixação_Vetor\obj\Debug\netcoreapp3.0\Exercicio_Fixação_Vetor.pdb
